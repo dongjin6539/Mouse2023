@@ -3,7 +3,7 @@
 
 javascript를 사용해서 clientX, clientY, offsetX, offsetY, pageX, pageY, screenX, screenY 메서드를 사용해서 마우스를 움직일 때의 X와 Y의 값을 구했습니다.
 
-## Mouse
+## MouseEffect
 
 **mouseEffect01** : https://dongjin6539.github.io/web2023/javascript/mouse/mouseEffect01.html <br>
 - css로 마우스를 해당하는 텍스트에 mouseover했을 때의 css를 만들었습니다.
