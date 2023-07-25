@@ -1,5 +1,5 @@
 # Mouse2023
-마우 효과를 사용해서 사용자가 웹 페이지에서 마우스를 움직일 때 마우스 애니메이션 효과를 구현했습니다.
+마우스 효과를 사용해서 사용자가 웹 페이지에서 마우스를 움직일 때 마우스 애니메이션 효과를 구현했습니다.
 
 javascript를 사용해서 clientX, clientY, offsetX, offsetY, pageX, pageY, screenX, screenY 메서드를 사용해서 마우스를 움직일 때의 X와 Y의 값을 구했습니다.
 
